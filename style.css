@@ -1,0 +1,14 @@
+#dot-div {
+    background-color: rgb(219 54 54);
+    height: 12px;
+    width: 12px;
+}
+
+.clear-btn {
+    width: 100px;
+    height: 60px;
+    background: #15804f;
+    border-color: #15804f;
+    color: #fff;
+    border-radius: 5%;
+}
